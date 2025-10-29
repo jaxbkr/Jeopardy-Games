@@ -1,0 +1,378 @@
+{
+    "game": {
+        "single": [
+            {
+                "category": "\"F\"ive Letter Words",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This word means a story with a moral, often featuring animals",
+                        "solution": "What is fable?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Someone who has committed a grave crime, differing from a misdemeanor ",
+                        "solution": "What is felon?"
+                    },
+
+                    {
+                        "value": 600,
+                        "clue": "This word means to make something or to invent a lie",
+                        "solution": "What is forge?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "A disturbed state of consciousness in which the one affected seems to perform acts in full awareness but upon recovery cannot recollect the acts performed",
+                        "solution": "What is fugue?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This term refers to all the animal life in a particular region or time period",
+                        "solution": "What is fauna?"
+                    }
+
+                ]
+            },
+            {
+                "category": "It's Greek to Me",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This Greek letter, also a math symbol for change or difference, looks like a triangle",
+                        "solution": "What is delta?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This Greek god ruled the sea with his trident",
+                        "solution": "Who is Poseidon?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "In Greek mythology, she opened a box releasing all evils into the world",
+                        "solution": "Who is Pandora?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This Greek word for 'time' gives us words like 'chronic' and 'chronology'",
+                        "solution": "What is chronos?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This hero completed 12 labors, including slaying the Nemean Lion",
+                        "solution": "Who is Hercules?"
+                    }
+                ]
+            },
+            {
+                "category": "Killer Apps",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This Meta-owned photo platform introduced Boomerang to create looping video clips",
+                        "solution": "What is Instagram?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "To work for Uber Eats, you need to be 19 to drive a car, but only 18 to use one of these low-tech options",
+                        "solution": "What is a bike (or bicycle)?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This app has trademarked 'swipe left' & 'swipe right'",
+                        "solution": "What is Tinder?",
+                        "dailyDouble": true
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This short-form video platform's algorithm is so good at keeping you scrolling, it's been called addictive",
+                        "solution": "What is TikTok?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This rhyming ticket app does not support will-call tickets, but does have a last-minute services option",
+                        "solution": "What is SeatGeek?"
+                    }
+                ]
+            },
+            {
+                "category": "Elementary, My Dear Watson",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This halogen with atomic number 17 is commonly found in swimming pools and household bleach",
+                        "solution": "What is chlorine?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This element's name comes from the Greek for 'stranger' and is used in high-intensity lamps and anesthesia",
+                        "solution": "What is xenon?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Named after the Sun, this element was first discovered in the solar spectrum before being found on Earth",
+                        "solution": "What is helium?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This metalloid with atomic number 14 is the second most abundant element in Earth's crust and is essential for computer chips",
+                        "solution": "What is silicon?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This radioactive element with atomic number 88 was discovered by Marie Curie and glows in the dark",
+                        "solution": "What is radium?"
+                    }
+                ]
+            },
+            {
+                "category": "Coffee Break",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This Italian coffee drink is made with espresso and steamed milk, topped with foam",
+                        "solution": "What is a cappuccino?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This drink is espresso 'marked' with just a dollop of foamed milk",
+                        "solution": "What is a macchiato?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This potent and collorfully named drink combines drip coffee with a shot of espresso for an extra caffeine kick",
+                        "solution": "What is a red eye?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This Spanish coffee drink gets its name from being 'stained' with a small amount of milk",
+                        "solution": "What is a cortado?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This Italian dessert drink consists of espresso poured over a scoop of vanilla ice cream or gelato",
+                        "solution": "What is an affogato?"
+                    }
+                ]
+            },
+            {
+                "category": "Fiery Words & Phrases",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Dante used this hellish word as a title for the first part of 'The Divine Comedy'",
+                        "solution": "What is Inferno?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Latin for 'fiery' gives us this term for a basic classification of rock",
+                        "solution": "What is igneous?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This phrase means to add more problems to an already bad situation",
+                        "solution": "What is 'add fuel to the fire'?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This idiom means something or someone is doing extremely well or having great success",
+                        "solution": "What is 'on fire'?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Now an idiom for any irreversible course, this was suggested by Sun Tzu after an army crossed hostile borders",
+                        "solution": "What is 'burn the boats' (or 'burn the ships')?"
+                    }
+                ]
+            }
+        ],
+        "double": [
+            {
+                "category": "Big Animals",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "African these have big ears shaped like the continent of Africa; Asian ones have smaller, rounder ears",
+                        "solution": "What are elephants?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "The biggest of the big cats are these hybrids known by a portmanteau name",
+                        "solution": "What are ligers?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "The biggest horse breed, the Shire, has been known to reach more than 21 of these horsey units high",
+                        "solution": "What are hands?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "The green species of this snake can reach 30 feet & 550 pounds",
+                        "solution": "What is an anaconda?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "In 2021 scientists identified a new species of this based on a 16-foot female that had been washed ashore",
+                        "solution": "What is a squid?"
+                    }
+                ]
+            },
+            {
+                "category": "Double Letters",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This leather seat is secured on a horse's back for riding",
+                        "solution": "What is a saddle?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This word describes something that cannot be stopped or changed, often used to describe forces or trends",
+                        "solution": "What is irreversible?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This word means to happen or take place",
+                        "solution": "What is occur?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This large African animal is known for its aggressive nature despite spending most of its time in water",
+                        "solution": "What is a hippopotamus?",
+			"dailyDouble": true
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This crime involves the unlawful use of force or violence against another person",
+                        "solution": "What is battery?"
+                    }
+                ]
+            },
+            {
+                "category": "Famous Equations",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "Einstein's most famous equation relating mass and energy",
+                        "solution": "What is E=mc²?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides",
+                        "solution": "What is the Pythagorean theorem?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "Newton's second law of motion is expressed as F equals m times this",
+                        "solution": "What is acceleration?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This equation for the area of a circle uses π times this measurement squared",
+                        "solution": "What is the radius?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "Schrödinger's equation is fundamental to this branch of physics dealing with subatomic particles",
+                        "solution": "What is quantum mechanics?"
+                    }
+                ]
+            },
+            {
+                "category": "Video Game Classics",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This 1996 3D platformer introduced players to Peach's Castle and revolutionized gaming with analog control",
+                        "solution": "What is Super Mario 64?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This 2011 Bethesda RPG features dragons, the Thu'um shout system, and the phrase 'I used to be an adventurer like you...'",
+                        "solution": "What is Skyrim?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This 2001 Xbox launch title introduced Master Chief and revolutionized console first-person shooters",
+                        "solution": "What is Halo: Combat Evolved?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This 2004 Valve game introduced the Gravity Gun and physics-based puzzles with protagonist Gordon Freeman",
+                        "solution": "What is Half-Life 2?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This 1991 Capcom fighting game introduced Hadouken moves and world warriors competing in tournaments",
+                        "solution": "What is Street Fighter II?"
+                    }
+                ]
+            },
+            {
+                "category": "State Nicknames",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "Known as 'The Lone Star State', this large southern state was once its own republic",
+                        "solution": "What is Texas?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This state is nicknamed 'The Volunteer State' for its residents' eagerness to serve in the military",
+                        "solution": "What is Tennessee?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This northwestern state is 'The Beaver State'",
+                        "solution": "What is Oregon?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This state calls itself 'The Ocean State' despite being the smallest in the nation",
+                        "solution": "What is Rhode Island?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "'The Land of Enchantment' is the nickname for this southwestern state known for its deserts and Native American culture",
+                        "solution": "What is New Mexico?",
+			"dailyDouble": true
+                    }
+                ]
+            },
+            {
+                "category": "Architecture",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This ancient Roman arena could hold up to 80,000 spectators for gladiatorial contests",
+                        "solution": "What is the Colosseum?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This London clock tower, officially named Elizabeth Tower, is famous for its bell that chimes on the hour",
+                        "solution": "What is Big Ben?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This famous cathedral in Paris, completed in 1345, was severely damaged by fire in 2019",
+                        "solution": "What is Notre-Dame?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This white marble mausoleum in Agra, India was built by Shah Jahan for his wife",
+                        "solution": "What is the Taj Mahal?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "Designed by Jørn Utzon, this Australian landmark with distinctive white 'shells' houses a performing arts center",
+                        "solution": "What is the Sydney Opera House?"
+                    }
+                ]
+            }
+        ],
+        "final": {
+            "category": "World History",
+            "clue": "This 1215 document signed by King John limited the power of the English monarchy and established the principle that everyone is subject to the law",
+            "solution": "What is the Magna Carta?"
+        }
+    }
+}
